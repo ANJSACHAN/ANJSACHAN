@@ -42,7 +42,7 @@ Hello! I'm **Anjali Sachan** - a passionate Software Engineer Trainee with a lov
 
 ### 📈 My GitHub Stats
 
-![Anjali's GitHub Stats](https://github-readme-stats.vercel.app/api?ANJSACHAN=yourANJSACHAN&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
+![Anjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjsachan&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
 
 ---
 
