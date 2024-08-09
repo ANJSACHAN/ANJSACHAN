@@ -1,12 +1,12 @@
-# 👑 Welcome to My GitHub Kingdom! 👑
+## Hello and Namaste
 
 ## About Me
 
-Hello! I'm [Your Name] - a passionate Software Engineer Trainee with a love for web development and machine learning. I specialize in the MERN stack, and I'm always eager to learn new technologies and contribute to exciting projects.
+Hello! I'm Anjali achan - a passionate Software Engineer Trainee with a love for web development and problem solving specially in context of DSA in Java. I specialize in the MERN stack, and I'm always eager to learn new technologies and contribute to exciting projects.
 
 ## 🚀 My Skills
 
-- **Programming Languages:** Java, C, HTML/CSS, JavaScript, Python
+- **Programming Languages:** Java, C, HTML/CSS, JavaScript, Java
 - **Frameworks & Libraries:** React, Node.js, Django, Flask
 - **Tech Stack:** MERN (MongoDB, Express.js, React, Node.js), GraphQL
 - **Tools & Platforms:** Git, Docker, AWS, GitHub Actions, Nginx, Apache, Linux
@@ -19,27 +19,18 @@ Hello! I'm [Your Name] - a passionate Software Engineer Trainee with a love for 
 
 ## 📜 Projects
 
-### [LegalEase Website](Link to Project)
+### [LegalEase Website](https://legalease.onrender.com/)
 Developed a groundbreaking e-marketplace using the MERN stack to revolutionize the legal service sector in India. LegalEase provides a centralized platform for advocates, arbitrators, mediators, notaries, and document writers to extend their services to citizens.
 
-### [Project Name](Link to Project)
-A brief description of this project and what it accomplishes.
-
-### [Project Name](Link to Project)
-A brief description of this project and what it accomplishes.
-
 ## 🌟 Highlights
-
-- **Open Source Contributor:** I have contributed to several open source projects, including [Project Name](Link to Project).
 - **Achievements:**
   - Advanced to the grand finale in the national-level Smart India Hackathon competition.
   - Completed a comprehensive Machine Learning program offered by GLA University, Mathura.
 
 ## 📫 Get in Touch
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter:** [Your Twitter Handle](https://twitter.com/yourhandle)
+- **Email:** [Link](mailto:theanjalisachan@gmail.com)
+- **LinkedIn:** [Link](https://www.linkedin.com/in/anjalisachan/)
 
 ## 🤝 Let's Collaborate!
 
