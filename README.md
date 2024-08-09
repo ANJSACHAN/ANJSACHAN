@@ -28,8 +28,6 @@ Hello! I'm **Anjali Sachan** - a passionate Software Engineer Trainee with a lov
       <ul>
         <li><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"></li>
-        <li><img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django"></li>
-        <li><img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask"></li>
       </ul>
     </td>
     <td>
@@ -52,7 +50,6 @@ Hello! I'm **Anjali Sachan** - a passionate Software Engineer Trainee with a lov
       <ul>
         <li><img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"></li>
-        <li><img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white"></li>
@@ -80,12 +77,7 @@ Hello! I'm **Anjali Sachan** - a passionate Software Engineer Trainee with a lov
   </tr>
 </table>
 
-<--
-### 📈 My GitHub Stats
 
-![Anjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjsachan&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
-
--->
 
 ### 📜 Projects
 
