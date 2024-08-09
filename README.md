@@ -80,11 +80,6 @@ Hello! I'm **Anjali Sachan** - a passionate Software Engineer Trainee with a lov
 
 
 
-### 📜 Projects
-
-#### [LegalEase Website](https://legalease.onrender.com/)
-Developed a groundbreaking e-marketplace using the MERN stack to revolutionize the legal service sector in India. LegalEase provides a centralized platform for advocates, arbitrators, mediators, notaries, and document writers to extend their services to citizens.
-
 ---
 
 ### 🌟 Highlights
