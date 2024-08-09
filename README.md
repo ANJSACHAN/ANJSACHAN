@@ -1,4 +1,4 @@
-## Hello and Namaste 🙏
+## Hello or Namaste 🙏
 
 ### About Me
 
@@ -70,7 +70,7 @@ Hello! I'm **Anjali Sachan** - a passionate Software Engineer Trainee with a lov
     </td>
     <td>
       <ul>
-        <li><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"> (400+ questions)</li>
+        <li>[<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black">](https://leetcode.com/u/Anjali_Sachan_/)(400+ questions)</li>
         <li>Various online coding platforms (500+ questions)</li>
       </ul>
     </td>
