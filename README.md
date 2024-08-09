@@ -2,13 +2,16 @@
 
 ## About Me
 
-Hello! I'm [Your Name] - a passionate [Your Profession/Role] with a love for [Your Interests/Hobbies]. I specialize in [Your Specialization], and I'm always eager to learn new technologies and contribute to exciting projects.
+Hello! I'm [Your Name] - a passionate Software Engineer Trainee with a love for web development and machine learning. I specialize in the MERN stack, and I'm always eager to learn new technologies and contribute to exciting projects.
 
 ## 🚀 My Skills
 
-- **Programming Languages:** Python, JavaScript, C++, Java
+- **Programming Languages:** Java, C, HTML/CSS, JavaScript, Python
 - **Frameworks & Libraries:** React, Node.js, Django, Flask
-- **Tools & Platforms:** Git, Docker, AWS, GitHub Actions
+- **Tech Stack:** MERN (MongoDB, Express.js, React, Node.js), GraphQL
+- **Tools & Platforms:** Git, Docker, AWS, GitHub Actions, Nginx, Apache, Linux
+- **Developer Tools:** VS Code, Eclipse, IntelliJ IDEA, GitHub, Git
+- **Problem Solving:** LeetCode (400+ questions), various online coding platforms (500+ questions)
 
 ## 📈 My GitHub Stats
 
@@ -16,19 +19,21 @@ Hello! I'm [Your Name] - a passionate [Your Profession/Role] with a love for [Yo
 
 ## 📜 Projects
 
-### Project 1: [Project Name](Link to Project)
+### [LegalEase Website](Link to Project)
+Developed a groundbreaking e-marketplace using the MERN stack to revolutionize the legal service sector in India. LegalEase provides a centralized platform for advocates, arbitrators, mediators, notaries, and document writers to extend their services to citizens.
+
+### [Project Name](Link to Project)
 A brief description of this project and what it accomplishes.
 
-### Project 2: [Project Name](Link to Project)
-A brief description of this project and what it accomplishes.
-
-### Project 3: [Project Name](Link to Project)
+### [Project Name](Link to Project)
 A brief description of this project and what it accomplishes.
 
 ## 🌟 Highlights
 
 - **Open Source Contributor:** I have contributed to several open source projects, including [Project Name](Link to Project).
-- **Achievements:** [Mention any relevant achievements, awards, or recognitions].
+- **Achievements:**
+  - Advanced to the grand finale in the national-level Smart India Hackathon competition.
+  - Completed a comprehensive Machine Learning program offered by GLA University, Mathura.
 
 ## 📫 Get in Touch
 
@@ -44,21 +49,3 @@ I’m always open to new opportunities and collaborations. If you have an intere
 
 Thank you for visiting my GitHub profile. Have a great day! 👑
 
-<!-- Optional: Add any other sections or custom content you like here -->
-
-
-
-<!--
-**ANJSACHAN/ANJSACHAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
