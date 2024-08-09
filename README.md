@@ -67,12 +67,14 @@ Hello! I'm **Anjali Sachan** - a passionate Software Engineer Trainee with a lov
     </td>
     <td>
       <ul>
-      <li><a href="https://leetcode.com/u/Anjali_Sachan_/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode Badge">
-</a> (400+ questions)</li>
+    <li>
+        <a href="https://leetcode.com/u/Anjali_Sachan_/" target="_blank">
+            <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode Badge">
+        </a> (400+ questions)
+    </li>
+    <li>Various online coding platforms (500+ questions)</li>
+</ul>
 
-        <li>Various online coding platforms (500+ questions)</li>
-      </ul>
     </td>
   </tr>
 </table>
