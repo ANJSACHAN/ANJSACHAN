@@ -1,4 +1,4 @@
-## Hello or Namaste 🙏
+## Welcome to my profile :)
 
 ### About Me
 
@@ -74,7 +74,6 @@ Hello! I'm **Anjali Sachan** - a passionate Software Engineer Trainee with a lov
     </li>
     <li>Various online coding platforms (500+ questions)</li>
 </ul>
-
     </td>
   </tr>
 </table>
