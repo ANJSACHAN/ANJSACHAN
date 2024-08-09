@@ -70,19 +70,22 @@ Hello! I'm **Anjali Sachan** - a passionate Software Engineer Trainee with a lov
     </td>
     <td>
       <ul>
-        <li>[<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black">](https://leetcode.com/u/Anjali_Sachan_/)(400+ questions)</li>
+      <li><a href="https://leetcode.com/u/Anjali_Sachan_/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode Badge">
+</a> (400+ questions)</li>
+
         <li>Various online coding platforms (500+ questions)</li>
       </ul>
     </td>
   </tr>
 </table>
 
----
+<--
 ### 📈 My GitHub Stats
 
 ![Anjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjsachan&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
 
----
+-->
 
 ### 📜 Projects
 
