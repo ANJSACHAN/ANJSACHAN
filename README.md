@@ -2,7 +2,7 @@
 
 ### About Me
 
-Hello! I'm **Anjali Sachan** - a passionate Software Engineer Trainee with a love for web development and problem solving, especially in the context of DSA in Java. I specialize in the MERN stack, and I'm always eager to learn new technologies and contribute to exciting projects.
+Hello! I'm **Anjali Sachan** - a passionate **Software Engineer Intern** at Mediology Software Pvt. Ltd. with a love for web development and problem solving, especially in the context of DSA in Java. I specialize in the MERN stack, and I'm always eager to learn new technologies and contribute to exciting projects.
 
 ---
 
