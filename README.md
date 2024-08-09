@@ -28,6 +28,7 @@ Hello! I'm **Anjali Sachan** - a passionate Software Engineer Trainee with a lov
       <ul>
         <li><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"></li>
       </ul>
     </td>
     <td>
@@ -37,6 +38,8 @@ Hello! I'm **Anjali Sachan** - a passionate Software Engineer Trainee with a lov
         <li><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white"></li>
       </ul>
     </td>
   </tr>
@@ -67,18 +70,16 @@ Hello! I'm **Anjali Sachan** - a passionate Software Engineer Trainee with a lov
     </td>
     <td>
       <ul>
-    <li>
-        <a href="https://leetcode.com/u/Anjali_Sachan_/" target="_blank">
-            <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode Badge">
-        </a> (400+ questions)
-    </li>
-    <li>Various online coding platforms (500+ questions)</li>
-</ul>
+        <li>
+            <a href="https://leetcode.com/u/Anjali_Sachan_/" target="_blank">
+                <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode Badge">
+            </a> (400+ questions)
+        </li>
+        <li>Various online coding platforms (500+ questions)</li>
+      </ul>
     </td>
   </tr>
 </table>
-
-
 
 ---
 
