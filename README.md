@@ -17,28 +17,28 @@ Hello! I'm **Anjali Sachan** - a passionate Software Engineer Trainee with a lov
   <tr>
     <td>
       <ul>
-        <li>![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)</li>
-        <li>![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c)</li>
-        <li>![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)</li>
-        <li>![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)</li>
-        <li>![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)</li>
+        <li><img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java"></li>
+        <li><img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c"></li>
+        <li><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3"></li>
+        <li><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)</li>
-        <li>![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)</li>
-        <li>![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)</li>
-        <li>![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)</li>
+        <li><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django"></li>
+        <li><img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask"></li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)</li>
-        <li>![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)</li>
-        <li>![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)</li>
-        <li>![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)</li>
-        <li>![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)</li>
+        <li><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white"></li>
       </ul>
     </td>
   </tr>
@@ -50,33 +50,34 @@ Hello! I'm **Anjali Sachan** - a passionate Software Engineer Trainee with a lov
   <tr>
     <td>
       <ul>
-        <li>![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)</li>
-        <li>![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)</li>
-        <li>![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)</li>
-        <li>![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)</li>
-        <li>![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)</li>
-        <li>![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)</li>
-        <li>![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)</li>
+        <li><img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black"></li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)</li>
-        <li>![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)</li>
-        <li>![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)</li>
-        <li>![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)</li>
-        <li>![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)</li>
+        <li><img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"></li>
+        <li><img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"></li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black) (400+ questions)</li>
+        <li><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"> (400+ questions)</li>
         <li>Various online coding platforms (500+ questions)</li>
       </ul>
     </td>
   </tr>
 </table>
 
+---
 ### 📈 My GitHub Stats
 
 ![Anjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjsachan&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
