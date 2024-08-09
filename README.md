@@ -93,8 +93,8 @@ Hello! I'm **Anjali Sachan** - a passionate Software Engineer Trainee with a lov
 
 ### 📫 Get in Touch
 
-- **Email:** [theanjalisachan@gmail.com](mailto:theanjalisachan@gmail.com)
-- **LinkedIn:** [linkedin.com/in/anjalisachan](https://www.linkedin.com/in/anjalisachan/)
+- **Email:** [Link](mailto:theanjalisachan@gmail.com)
+- **LinkedIn:** [Link](https://www.linkedin.com/in/anjalisachan/)
 
 ---
 
